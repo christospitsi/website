@@ -10,7 +10,7 @@ author = "Christos Pitsikas"
 title = "  Christos Pitsikas"
 # disqusshortname = ""
 pluralizelisttitles = false
-latestpostcount = 20
+latestpostcount = 5
 
 [permalinks]
 blog = "blog/:slug/"
@@ -19,7 +19,7 @@ blog = "blog/:slug/"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Christos's Blog"
-copyright = "Copyright © 2017 Christos Pitsikas, Powered by Hugo and Cocoa-Eh"
+copyright = "Copyright © 2017 Christos Pitsikas, Powered by Hugo and Cocoa-Eh theme"
 logofile = "img/logo.png"
 faviconfile = "img/favicon.ico"
 highlightjs = true
@@ -29,7 +29,7 @@ highlightjsLang = ["r", "yaml"]
 highlightjsTheme = "github"
 progressively = true
 align_left = false
-latestpostcount = 20
+latestpostcount = 10
 lang = "en"
 github = "christospitsi"
 email = "christos.pitsikas@gmail.com"

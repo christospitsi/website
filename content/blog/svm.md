@@ -5,7 +5,7 @@ tags: ["R", "Statistical Learning"]
 draft: true
 ---
 
-### SVM
+### SVM TEST 
 
 In this post we will re-examine the `OJ` data set,
 by applying this time a *support vector machines* (SVM) model.

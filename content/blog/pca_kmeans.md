@@ -44,7 +44,7 @@ points(pr.out$x[21:40, c(1,2)], pch = 20, col = "green")
 points(pr.out$x[41:60, c(1,2)], pch = 20, col = "blue")   
 ```
 
-<img src="/imaged/PCA_2-2.png" style="display: block; margin: auto;" />
+<img src="/images/PCA_2-2.png" style="display: block; margin: auto;" />
 
 ### K-means
 

@@ -1,18 +1,18 @@
 ---
 title: About
-date: 2017-11-19T19:09:45Z
+date: 2018-01-22T19:09:45Z
 draft: true
 ---
-I am Christos, software engineer, and I am currently working at Sauter Automation Ltd as a
+I am Christos, a software engineer, currently working at Sauter Automation Ltd as a
 Control Applications Design Engineer.
 
 I possess a BSc and Msc (Hons 2:1) from Democritus University of Thrace in
 Electrical and Computer Engineering and
 I am currently studying towards
-an MSc degree in Data Analytics in Birkbeck, University of London.
+an MSc degree in Data Analytics at Birkbeck, University of London.
 
 My current professional role involves
-designing and programming automation applications for Building Management Systems (BMS),
+designing and programming control applications for Building Management Systems (BMS),
 analysing data acquired from various sources and predicting the building's behaviour,
 with an emphasis on optimising energy consumption and sustainability.
 

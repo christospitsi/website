@@ -4,7 +4,7 @@ date: 2018-01-22T21:48:18Z
 draft: true
 tags: ["R", "Statistical Learning"]
 ---
-(*The full code of the application can by found on <a href="https://github.com/christospitsi">github</a>*)
+(*The full code of the application can by found on <a href="https://github.com/christospitsi/wdbc-ann">github</a>*)
 
 ## 1. Introduction
 The recent advances in machine learning methods and computational power, in conjunction with the development of highly sophisticated tools and frameworks, have provided us with a powerful toolbox with which we can predict with high accuracy and train algorithms effectively and quickly.

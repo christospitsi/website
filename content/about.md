@@ -3,7 +3,7 @@ title: About
 date: 2018-01-22T19:09:45Z
 draft: true
 ---
-I am Christos, a software engineer, currently working at Sauter Automation Ltd as a
+I am Christos Pitsikas, a software engineer, currently working at Sauter Automation Ltd as a
 Control Applications Design Engineer.
 
 I possess a BSc and Msc (Hons 2:1) from Democritus University of Thrace in
